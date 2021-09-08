@@ -1,4 +1,4 @@
-name: 'Commit Message Checker'
+name: 'e-mcginnis Commit Message Checker'
 description: 'Check the commit message against a regex pattern'
 author: 'e-mcginnis'
 inputs:
